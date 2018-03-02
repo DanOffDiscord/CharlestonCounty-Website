@@ -1293,6 +1293,7 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   color: #4a4a4a;
   display: block;
   padding: 1.25rem;
+  position: relative;
 }
 
 .box:not(:last-child) {
